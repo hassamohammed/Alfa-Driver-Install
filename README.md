@@ -1,6 +1,6 @@
 # Alfa-Driver-Install
 
-# Step One:
+## Step One:
 Open Up the Terminal as Root (Red Terminal)
 
 # Step Two:
